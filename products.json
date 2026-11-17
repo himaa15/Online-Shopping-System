@@ -1,0 +1,98 @@
+[ 
+{
+"id" : 1,
+"name" : "Monitor",
+"price" : 1200,
+"category" : "Electronics",
+"stock" : 10,
+"image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRc_IIXIs_9qnawmD3q8TYHUiV7MteStI1mE_o9Ktv-A&s"
+},
+{
+"id" : 2,
+"name" : "keyboard",
+"price" : 1000,
+"category" : "Electronics",
+"stock" : 8,
+"image" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv1wnqCJIRNfYxQbGy_5fr4wPU3IIuHpIupR6fmd0ZPA&s=10"
+},
+{
+"id" : 3,
+"name" : "Wireless Mouse",
+"price": 700,
+"category" : "Electronics",
+"stock" : 10,
+"image" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRINc01PwCn3UpQg7xxWCjL-2EWBiSr_HgYCzAUoi2eyg&s=10"
+},
+{
+"id" : 4,
+"name" : "Headphones",
+"price" : 1100,
+"category" : "Electronics",
+"stock" : 6,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCt0QXScDtHvqPkezVqFfcx4QSogjwQj3rDVU7rOFJZA&s=10"
+},
+{
+"id" : 5,
+"name" : "Backpack",
+"price" : 800,
+"category" : "Accessories",
+"stock" : 6,
+"image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpmnsN09fPUJYVEsbO0upWV_wqjXmvsG-HoUybw06eKg&s=10"
+},
+{
+"id": 6,
+"name": "Sunglasses",
+"price": 699,
+"category": "Accessories",
+"stock": 15,
+"image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGv4BRCPPQYzfmg0c5o00inwyxL84q4y6nhP3kWGlEgw&s=10"
+},
+{
+"id": 7,
+"name": "Wallet",
+"price": 499,
+"category": "Accessories",
+"stock": 20,
+"image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm6qxRMk9hBdN95APmo6lzR92PL9UKa1MP7DC6KZ-Mnw&s=10"
+},
+{
+"id": 8,
+"name": "Bluetooth Speaker",
+"price": 1400,
+"category": "Accessories",
+"stock": 20,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8UpPcEGTcz8TldVmSgGAkfh2YdeQgHjJJDraZL-giIA&s=10"
+},
+{
+"id": 9,
+"name": "Jeans",
+"price": 1000,
+"category": "Clothing",
+"stock": 10,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2FP06QhopUbE1wXsBYClgBh4aGZixw4whmiMKqVsqKA&s"
+},
+{
+"id": 10,
+"name": "Hoodie",
+"price": 1000,
+"category": "Clothing",
+"stock": 10,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj4Jd4keaQetUb9jxkZmShyPT0LmbM_T-TRsQcEaij1A&s=10"
+},
+{
+"id": 11,
+"name": "Shirt",
+"price": 1000,
+"category": "Clothing",
+"stock": 10,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnEBSsAamcKuxi6NS0JVoYoI2aqwJhyLaQGQWB-xaW8w&s=10"
+},
+{
+"id": 12,
+"name": "Jacket",
+"price": 1000,
+"category": "Clothing",
+"stock": 10,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsS__-awIMmQLMNqFo7qDPvSWJHq5me7HMZBBF4eUEdw&s=10"
+}   
+]
