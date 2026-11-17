@@ -35,7 +35,7 @@ The Online Shopping System is a web application developed using Python and Strea
 
 4. Run the application:
 
-   `streamlit run app.py`
+   `streamlit run main.py`
 
 ## Future Enhancements
 - Database integration
